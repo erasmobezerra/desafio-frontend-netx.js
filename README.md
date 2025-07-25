@@ -12,7 +12,7 @@ Este projeto frontend foi desenvolvido no 1º módulo da pós-graduação em Des
 - [Next.js](https://nextjs.org/)
 - [React](https://react.dev/)
 - [Axios](https://axios-http.com/)
-- [React Bootstrap]([https://getbootstrap.com/](https://react-bootstrap.netlify.app/))
+- [React Bootstrap](https://react-bootstrap.netlify.app/)
 - [APIs Disney](https://disneyapi.dev/)
 - [APIs Correios](https://viacep.com.br/)
 
@@ -37,7 +37,8 @@ npm run dev
 O projeto será executado em `http://localhost:3000`.
 
 
-✍️ Aprendizados e Resumos Técnicos
+## ✍️ Aprendizados e Resumos Técnicos
+
 Este projeto também está sendo utilizado como uma ferramenta de aprendizado contínuo. Dentro do repositório você encontrará em breve pequenos resumos com os principais conceitos e técnicas aprendidas durante o desenvolvimento — como o uso de Hooks, manipulação de APIs com Axios, estrutura de rotas com Next.js, entre outros.
 
 ## 👨‍💻 Contribuição

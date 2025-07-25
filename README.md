@@ -1,6 +1,6 @@
-# 📦 Projeto Next.js - API Correios & Disney
+# 📦 Projeto Frontend com Next.js - API Correios & Disney
 
-Este projeto foi desenvolvido como parte da pós-graduação em Desenvolvimento Full Stack e Cloud Computing. O objetivo é integrar informações de APIs públicas — dos Correios e da Disney — em uma aplicação web moderna utilizando **Next.js**, **React**, **Axios** e **Bootstrap**.
+Este projeto frontend foi desenvolvido no 1º módulo da pós-graduação em Desenvolvimento Full Stack e Cloud Computing. Nos módulos seguintes, será desenvolvido o backend e posteriormente o deploy na nuvem. 
 
 ## 🚀 Funcionalidades
 

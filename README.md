@@ -38,6 +38,10 @@ npm run dev
 
 O projeto será executado em `http://localhost:3000`.
 
+
+✍️ Aprendizados e Resumos Técnicos
+Este projeto também está sendo utilizado como uma ferramenta de aprendizado contínuo. Dentro do repositório você encontrará em breve pequenos resumos com os principais conceitos e técnicas aprendidas durante o desenvolvimento — como o uso de Hooks, manipulação de APIs com Axios, estrutura de rotas com Next.js, entre outros.
+
 ## 👨‍💻 Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com sugestões ou melhorias.

@@ -6,15 +6,13 @@ Este projeto frontend foi desenvolvido no 1º módulo da pós-graduação em Des
 
 - Consulta de CEPs via API dos Correios
 - Exibição de personagens da Disney via API pública
-- Interface responsiva com Bootstrap
-- Consumo de dados assíncronos com Axios e React Hooks
 
 ## 🛠️ Tecnologias Utilizadas
 
 - [Next.js](https://nextjs.org/)
 - [React](https://react.dev/)
 - [Axios](https://axios-http.com/)
-- [Bootstrap](https://getbootstrap.com/)
+- [React Bootstrap]([https://getbootstrap.com/](https://react-bootstrap.netlify.app/))
 - [APIs Disney](https://disneyapi.dev/)
 - [APIs Correios](https://viacep.com.br/)
 
